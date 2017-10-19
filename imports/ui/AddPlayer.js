@@ -15,17 +15,16 @@ export default class AppPlayer extends React.Component {
                 score: 0
             });
         }
-
     }
     render(){        
         return(   
-            <div>
+            <div className="item">
                 <form onSubmit={this.handleSubmit.bind(this)}>
-                <input type="text" name="playerName" placeholder="Player name"/>
-                <button>Add player</button>
-            </form>
+                    <input type="text" name="playerName" placeholder="Player name"/>
+                    <button>Add player</button>
+                </form>
             
-                </div>        
+            </div>        
                             
         );
     }
