@@ -9,21 +9,20 @@ Add players to the game and increment the score to see the app working.
 ## Demo
 
 ## [Score Keep](https://score-keep-danielgg.herokuapp.com/)
-![Sell Quotes](/images/sellquotes.JPG?raw=true "Sell Quotes")
+![Score Keep](/image/score.JPG?raw=true "Score Keep")
 
 
 ## Learnings
 
 * Use CSS Grid to create page layout.
-* Use twitter share button to create interactive tweets.
-* Use JS to update the id of elements.
-* Use transform to create an interactive gradient background.
-
+* Use Heroku to deploy.
+* Use ReactJs to create components.
+* Use React Flip to create an smooth animations.
 ## Built With
 
-* Vanilla Javascript
 * CSS
-* Css Grid
+* CSS Grid
 * Html
-* Prettier
+* ReactJs
+* Heroku
 * Eslint
