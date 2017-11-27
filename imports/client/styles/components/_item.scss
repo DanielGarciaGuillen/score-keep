@@ -1,37 +1,28 @@
-
-
-
 .item {
-    background: white;
-    border: 1px solid #e8e8e8;
-    margin-bottom: 1.3rem;
-    padding: 1.3 rem;
+  background: #ffffff;
+  border: 1px solid #e8e8e8;
+  margin-bottom: 1.3rem;
+  padding: 1.3rem;
+}
+
+.item--position-1 {
+  background: $green;
+  border-color: $green-alt;
+}
+
+.item--position-2 {
+  background: $blue;
+  border-color: $blue-alt;
+}
+
+.item--position-3 {
+  background: $red;
+  border-color: $red-alt;
 }
 
 .item__message {
-    font-size: 1.3rem;
-    font-style: italic;
-    font-weight: 600;
-    text-align: center; 
-    padding: 10px;
-
-    
+  font-size: 1.3rem;
+  font-style: italic;
+  font-weight: 300;
+  text-align: center;
 }
-
-.item--position-1{
-    background-color: $green;
-    border-color: $green-alt;
-}
-
-
-.item--position-2{
-    background-color: $blue;
-    border-color: $blue-alt;
-}
-
-.item--position-3{
-    background-color: $red;
-    border-color: $red-alt;
-}
-
-
