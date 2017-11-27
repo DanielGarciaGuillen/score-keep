@@ -1,7 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-
 import TitleBar from './TitleBar';
 import AddPlayer from './AddPlayer';
 import PlayerList from './PlayerList';

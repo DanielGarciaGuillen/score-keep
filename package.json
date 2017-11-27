@@ -15,5 +15,9 @@
   },
   "engines": {
     "node": "4.8.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.0",
+    "eslint-plugin-react": "^7.5.1"
   }
 }
