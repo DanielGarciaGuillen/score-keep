@@ -9,7 +9,7 @@ Add players to the game and increment the score to see the app working.
 ## Demo
 
 ## [Score Keep](https://score-keep-danielgg.herokuapp.com/)
-![Score Keep](/image/score.JPG?raw=true "Score Keep")
+![Score Keep](/image/score.jpg?raw=true "Score Keep")
 
 
 ## Learnings
